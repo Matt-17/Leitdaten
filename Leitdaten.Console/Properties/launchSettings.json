@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Leitdaten.Console": {
+      "commandName": "Project",
+      "commandLineArgs": "D:\\Development\\Leitdaten-Import\\Daten\\B1903060.DAT"
+    }
+  }
+}
